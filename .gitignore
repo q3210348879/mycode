@@ -6,3 +6,4 @@ exes
 .idea/
 .vscode/
 *.sw*
+*dsYM*/
