@@ -29,6 +29,6 @@ int main()
     Solution s;
     int target=2;
     vector<int> nums={-1,1,2,3,1};
-    cout<<s.countPairs(nums,target)<<endl;
+    cout<<s.countPairs(nums,target);
     return 0;
 }
